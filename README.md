@@ -8,6 +8,11 @@ Berikut tahapan proses yang akan kita lakukan dalam latihan melakukan latihan be
 - Mengelola pull request yang masuk oleh admin atau pemilik akun.
 - Melihat perbedaan sebelum dan sesudah pull request dilakukan.
 
+# Squashing Changes
+Squash adalah opsi Git untuk menggabungkan atau merekap semua commit tambahan dalam pull request menjadi satu commit. 
+
+Squash bertujuan untuk membuat riwayat commit yang lebih ramping dalam repository. Pada dasarnya setiap commit akan membantu untuk melihat setiap perubahan yang telah dilakukan, tetapi tak semua commit selalu menjadi hal yang penting untuk disimpan dalam riwayat Git. Contohnya ketika melakukan beberapa perubahan pada formating (perubahan spasi, titik, koma). 
+
 # Latihan Melakukan Squashing Changes
 Tujuan
 Latihan melakukan squashing change bertujuan untuk menggabungkan beberapa commit menjadi satu sewaktu pull request dengan menggunakan Squash and Merge. Beberapa bagian dari latihan ini akan menjawab sejumlah pertanyaan mengenai cara bagaimana menggabungkan commit sewaktu melakukan pull request berikut.
