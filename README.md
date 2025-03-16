@@ -18,3 +18,13 @@ Latihan melakukan squashing change bertujuan untuk menggabungkan beberapa commit
 - Bagaimana menggunakan Squash and Merge?
 - Bagaimana cara melihat hasil dari hasil Squash and Merge pada Network graph.
 
+Tahapan Proses
+Berikut tahapan proses yang akan kita lakukan dalam latihan melakukan squashing changes.
+
+- Membuka Repository.
+- Membuat Branch.
+- Melakukan Commit minimal 3.
+- Melakukan Pull Request.
+- Menerima Pull Request dan memilih Squash Changes oleh pengelola repository.
+- Melihat hasilnya pada network graph.
+
